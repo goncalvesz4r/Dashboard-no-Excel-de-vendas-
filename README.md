@@ -3,9 +3,9 @@
 -Filtrar dados da planiha do excel e criar um dashboard para visualização de vendas
 
 ## Como Utilizar
-1. Faça o download do arquivo `base.xlsx`
+1. Faça o download do arquivo `ABCD.xlsx`
 2. Abra no **Microsoft Excel** ou **Google Sheets**
-3. Analise e/ou edite os dados utilizando a pasta "ABCD"
+3. Analise e/ou edite os dados utilizando a pasta.
 4. Os cálculos e resultados são atualizados automaticamente
 ---
 ## Observações
